@@ -107,4 +107,62 @@
                            - Correlation Heatmap – Clearly shows strong and weak relationships between numerical variables
                            - Multivariate Scatter Plot – Highlights restaurant-type-based behavior patterns
 
-## 📁 Project Structure
+
+
+
+
+# Sub Task 2.3
+
+# Time-Series Sales Pattern Analysis
+
+## Project Overview
+                          This project focuses on Time-Series Pattern Analysis of a retail sales dataset to understand how sales change over time.  
+                          The analysis explores trends, seasonality, weekly patterns, and sales spikes, which are essential foundations for forecasting and demand planning.
+
+                          The project follows a real-world data pipeline, using multiple datasets (sales, stores, products) and performing proper merging, cleaning, and visualization.
+
+##  Objectives
+                          - Analyze overall sales trends (increasing or decreasing)
+                          - Identify seasonal patterns (monthly & weekly)
+                          - Detect holiday or event-based spikes and dips
+                          - Evaluate store and product performance over time
+                          - Prepare the dataset for future forecasting models
+
+##  Tools & Libraries Used
+                          - Python
+                          - Pandas– Data manipulation
+                          - Matplotlib – Time-series visualization
+                          - Seaborn – Statistical plotting
+                          - VS Code – Development environment
+                          - Jupyter Notebook
+                          
+##  Analysis Performed
+
+###   Time-Series Analysis
+                         - Daily sales trend visualization (Line Plot)
+                         - 7-day rolling average smoothing
+                         - Monthly seasonality analysis
+                         - Weekly sales pattern detection
+                         - Sales spike & dip identification
+
+###  Performance Analysis
+                         - Product-wise sales over time
+                         - Store-level sales trends
+                         - Category-level insights
+
+##  Key Insights
+                         - Sales exhibit a clear upward trend over time
+                         - Weekend sales are consistently higher than weekdays
+                         - Monthly seasonality indicates increasing demand in later months
+                         - Rolling averages reduce noise and highlight true trends
+                         - Dataset is well-suited for forecasting models such as:
+                                                                - ARIMA / SARIMA
+                                                                - Prophet
+                                                                - LSTM (advanced)
+
+
+##  Favorite Visualizations
+                         - Sales Trend Line Plot – Shows long-term growth
+                         - 7-Day Rolling Average Plot – Smooths daily fluctuations
+                         - Weekly Sales Bar Chart – Highlights weekend demand spikes
+
