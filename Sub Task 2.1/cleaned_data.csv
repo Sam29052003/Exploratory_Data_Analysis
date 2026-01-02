@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Customer_Age,Gender,Product_Category,Quantity,Unit_Price,Total_Sales,Region
+1001,2023-01-05,25,Male,Electronics,1,45000,45000,North
+1002,2023-01-08,32,Female,Clothing,3,1500,4500,West
+1003,2023-01-10,45,Male,Home Appliances,1,32000,32000,South
+1004,2023-01-15,29,Female,Beauty,5,800,4000,East
+1005,2023-01-20,38,Male,Electronics,2,42000,84000,North
+1006,2023-02-02,41,Female,Clothing,4,1800,7200,West
+1007,2023-02-05,23,Male,Sports,2,2500,5000,South
+1008,2023-02-10,36,Female,Home Appliances,1,28000,28000,East
+1009,2023-02-14,50,Male,Electronics,1,52000,52000,North
+1010,2023-02-18,28,Female,Beauty,6,700,4200,West
+1011,2023-03-01,34,Male,Clothing,3,1600,4800,South
+1012,2023-03-04,47,Female,Electronics,1,61000,61000,East
+1013,2023-03-09,31,Male,Sports,4,2300,9200,North
+1014,2023-03-15,26,Female,Beauty,5,900,4500,South
+1015,2023-03-20,39,Male,Home Appliances,1,35000,35000,West
