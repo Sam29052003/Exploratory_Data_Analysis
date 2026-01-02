@@ -190,5 +190,107 @@
 
 
 
+# SUBMISSION
 
+# Task-2: Exploratory Data Analysis (Retail Sales Forecasting)
+
+##  Project Overview
+                            This project focuses on performing comprehensive Exploratory Data Analysis (EDA) on a cleaned retail sales dataset as part of a Retail Sales Forecasting pipeline.
+
+                            The objective is to understand sales patterns, store and product performance, temporal trends, and key drivers of revenue before applying forecasting models.  
+                            The analysis is presented in a business-friendly manner, simulating how data analysts explain insights to stakeholders.
+
+
+##  Objectives
+                            - Load and analyze the cleaned retail dataset
+                            - Generate summary statistics (`info`, `describe`)
+                            - Perform univariate, bivariate, and multivariate analysis
+                            - Analyze correlations using heatmaps
+                            - Explore time-series patterns (trend, seasonality, weekday effects)
+                            - Detect outliers and unusual patterns
+                            - Highlight actionable business insights
+
+
+##  Dataset Description
+                             File: `cleaned_retail_data.csv`
+
+                             | Column Name | Description |
+                             | date | Transaction date |
+                             | store_id | Unique store identifier |
+                             | store_name | Store name |
+                             | city | Store location |
+                             | product_id | Product identifier |
+                             | product_name | Product name |
+                             | category | Product category |
+                             | units_sold | Number of units sold |
+                             | revenue | Revenue generated |
+
+                             = Dataset is cleaned  
+                             = No missing values  
+                             = perfect for time-series analysed  
+
+##  Tools & Technologies Used
+                             - Python
+                             - Pandas – Data manipulation
+                             - Matplotlib – Visualization
+                             - Seaborn – Statistical plots
+                             - VS Code – Development environment
+                             - Jupyter Notebook
+
+##  Analysis Performed
+
+###  Summary Statistics
+                          - Dataset structure using `info()`
+                          - Descriptive statistics using `describe()`
+
+###  Univariate Analysis
+                          - Revenue distribution
+                          - Units sold distribution
+                          - Product category distribution
+
+### Bivariate & Multivariate Analysis
+                           - Store vs revenue
+                           - Product vs revenue
+                           - Units sold vs revenue (category-wise)
+
+###  Correlation Analysis
+                           - Correlation matrix
+                           - Heatmap to identify key relationships
+
+### Time-Series Analysis
+                           - Revenue trend over time
+                           - Monthly seasonality patterns
+                           - Weekday vs weekend sales behavior
+
+###  Outlier Detection
+                          - Boxplot analysis for revenue
+                          - Identification of high-value transactions
+
+##  Key Business Insights
+                          - Electronics is the primary revenue-generating category
+                          - Laptops contribute disproportionately to total revenue
+                          - Metro Plaza Store is the top-performing store
+                          - Sales show a clear upward trend over time
+                          - Weekend sales are higher than weekdays
+                          - Strong positive correlation exists between units sold and revenue
+                          - Revenue outliers represent valid premium product purchases
+
+##  Key Visualizations
+                         - Revenue distribution histogram
+                         - Store-wise and product-wise bar charts
+                         - Correlation heatmap
+                         - Time-series trend and seasonality plots
+                         - Revenue outlier boxplot
+
+
+## Conclusion
+                            This EDA provides a strong understanding of retail sales dynamics and identifies critical features that influence revenue.  
+                            The insights gained from this analysis form a solid foundation for sales forecasting, demand planning, and strategic decision-making.
+
+
+# Author
+# SAMUEL  
+
+                Task-2: Exploratory Data Analysis  
+                        Retail Sales Forecasting Project
 
