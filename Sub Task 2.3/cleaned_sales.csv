@@ -1,0 +1,21 @@
+date,store_id,product_id,sales,revenue,store_name,city,product_name,category
+2023-01-01,S1,P1,120,2400,Central Store,Mumbai,Smartphone,Electronics
+2023-01-02,S1,P1,130,2600,Central Store,Mumbai,Smartphone,Electronics
+2023-01-03,S1,P1,110,2200,Central Store,Mumbai,Smartphone,Electronics
+2023-01-04,S1,P1,150,3000,Central Store,Mumbai,Smartphone,Electronics
+2023-01-05,S1,P1,170,3400,Central Store,Mumbai,Smartphone,Electronics
+2023-01-06,S1,P1,200,4000,Central Store,Mumbai,Smartphone,Electronics
+2023-01-07,S1,P1,260,5200,Central Store,Mumbai,Smartphone,Electronics
+2023-01-08,S1,P1,140,2800,Central Store,Mumbai,Smartphone,Electronics
+2023-01-09,S1,P1,135,2700,Central Store,Mumbai,Smartphone,Electronics
+2023-01-10,S1,P1,145,2900,Central Store,Mumbai,Smartphone,Electronics
+2023-02-01,S1,P1,160,3200,Central Store,Mumbai,Smartphone,Electronics
+2023-02-05,S1,P1,220,4400,Central Store,Mumbai,Smartphone,Electronics
+2023-02-10,S1,P1,240,4800,Central Store,Mumbai,Smartphone,Electronics
+2023-02-14,S1,P1,300,6000,Central Store,Mumbai,Smartphone,Electronics
+2023-03-01,S1,P1,180,3600,Central Store,Mumbai,Smartphone,Electronics
+2023-03-05,S1,P1,210,4200,Central Store,Mumbai,Smartphone,Electronics
+2023-03-10,S1,P1,230,4600,Central Store,Mumbai,Smartphone,Electronics
+2023-03-15,S1,P1,260,5200,Central Store,Mumbai,Smartphone,Electronics
+2023-03-20,S1,P1,290,5800,Central Store,Mumbai,Smartphone,Electronics
+2023-03-25,S1,P1,310,6200,Central Store,Mumbai,Smartphone,Electronics
