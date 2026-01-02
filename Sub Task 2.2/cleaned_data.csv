@@ -1,0 +1,21 @@
+order_id,city,restaurant_type,day_of_week,distance_km,delivery_time_min,order_value
+1001,Mumbai,Fast Food,Monday,3.2,28,450
+1002,Delhi,Casual Dining,Tuesday,5.5,40,780
+1003,Bangalore,Cafe,Wednesday,2.1,22,320
+1004,Hyderabad,Fast Food,Thursday,4.0,35,510
+1005,Chennai,Fine Dining,Friday,6.8,55,1250
+1006,Mumbai,Cafe,Saturday,1.9,20,300
+1007,Delhi,Fast Food,Sunday,3.5,30,480
+1008,Bangalore,Casual Dining,Monday,5.9,45,820
+1009,Hyderabad,Fine Dining,Tuesday,7.2,60,1400
+1010,Chennai,Cafe,Wednesday,2.5,25,350
+1011,Mumbai,Fast Food,Thursday,4.3,38,520
+1012,Delhi,Casual Dining,Friday,6.1,48,900
+1013,Bangalore,Fine Dining,Saturday,8.0,65,1500
+1014,Hyderabad,Cafe,Sunday,2.0,21,310
+1015,Chennai,Fast Food,Monday,3.8,32,470
+1016,Mumbai,Casual Dining,Tuesday,5.0,42,760
+1017,Delhi,Cafe,Wednesday,2.3,24,330
+1018,Bangalore,Fast Food,Thursday,4.6,36,540
+1019,Hyderabad,Casual Dining,Friday,6.4,50,880
+1020,Chennai,Fine Dining,Saturday,7.5,62,1450
