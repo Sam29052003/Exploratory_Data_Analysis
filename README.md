@@ -113,7 +113,7 @@
 
 # Sub Task 2.3
 
-# Time-Series Sales Pattern Analysis
+# Time-Series Sales Pattern Analysis - (EDA)
 
 ## Project Overview
                           This project focuses on Time-Series Pattern Analysis of a retail sales dataset to understand how sales change over time.  
@@ -165,4 +165,30 @@
                          - Sales Trend Line Plot – Shows long-term growth
                          - 7-Day Rolling Average Plot – Smooths daily fluctuations
                          - Weekly Sales Bar Chart – Highlights weekend demand spikes
+
+
+
+# Sub Task 2.4
+
+#  Retail Sales Forecasting – (EDA)
+
+##  Project Overview
+                          This project performs Exploratory Data Analysis (EDA) on a cleaned retail sales dataset as part of a sales forecasting pipeline.  
+                          The objective is to understand sales behavior, key drivers, store and product performance, and temporal patterns before building forecasting models.
+
+                          This analysis simulates how data analysts communicate insights to business stakeholders using structured visuals and interpretable findings.
+
+##  Objectives
+                          - Load and analyze the cleaned retail sales dataset
+                          - Generate summary statistics and data distributions
+                          - Identify top-performing stores and products
+                          - Explore sales trends and seasonal patterns
+                          - Analyze correlations between key features
+                          - Detect anomalies, outliers, and missing patterns
+                          - Highlight business insights relevant for forecasting
+
+
+
+
+
 
