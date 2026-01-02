@@ -1,0 +1,21 @@
+date,store_id,product_id,units_sold,revenue,store_name,city,product_name,category
+2023-01-01,S1,P1,120,24000,Central Mall Store,Mumbai,Smartphone,Electronics
+2023-01-02,S1,P2,80,16000,Central Mall Store,Mumbai,Headphones,Accessories
+2023-01-03,S2,P1,90,18000,City Center Store,Delhi,Smartphone,Electronics
+2023-01-04,S2,P3,60,30000,City Center Store,Delhi,Laptop,Electronics
+2023-01-05,S3,P2,110,22000,Metro Plaza Store,Bangalore,Headphones,Accessories
+2023-01-06,S3,P3,70,35000,Metro Plaza Store,Bangalore,Laptop,Electronics
+2023-01-07,S1,P1,200,40000,Central Mall Store,Mumbai,Smartphone,Electronics
+2023-01-08,S1,P2,150,30000,Central Mall Store,Mumbai,Headphones,Accessories
+2023-01-09,S2,P1,130,26000,City Center Store,Delhi,Smartphone,Electronics
+2023-01-10,S2,P3,90,45000,City Center Store,Delhi,Laptop,Electronics
+2023-02-01,S3,P2,140,28000,Metro Plaza Store,Bangalore,Headphones,Accessories
+2023-02-05,S1,P3,160,80000,Central Mall Store,Mumbai,Laptop,Electronics
+2023-02-10,S2,P2,170,34000,City Center Store,Delhi,Headphones,Accessories
+2023-02-14,S3,P1,210,42000,Metro Plaza Store,Bangalore,Smartphone,Electronics
+2023-03-01,S1,P1,180,36000,Central Mall Store,Mumbai,Smartphone,Electronics
+2023-03-05,S2,P2,160,32000,City Center Store,Delhi,Headphones,Accessories
+2023-03-10,S3,P3,190,95000,Metro Plaza Store,Bangalore,Laptop,Electronics
+2023-03-15,S1,P2,175,35000,Central Mall Store,Mumbai,Headphones,Accessories
+2023-03-20,S2,P1,220,44000,City Center Store,Delhi,Smartphone,Electronics
+2023-03-25,S3,P3,240,120000,Metro Plaza Store,Bangalore,Laptop,Electronics
